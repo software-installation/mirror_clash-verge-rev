@@ -207,6 +207,10 @@
     "241770751": {
       "tag_name": "updater",
       "fully_synced_at": "2025-08-23 00:48:37.933243"
+    },
+    "241537933": {
+      "tag_name": "alpha",
+      "fully_synced_at": "2025-08-23 00:48:51.297370"
     }
   },
   "assets": {
@@ -11731,7 +11735,8 @@
         "updated_at": "2025-08-23T00:48:37+00:00",
         "synced_at": "2025-08-23 00:48:37.918883"
       }
-    }
+    },
+    "241537933": {}
   },
   "source_codes": {
     "v1.4.0": {
@@ -12222,6 +12227,16 @@
       "SourceCode_v2.3.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-22 03:56:26.986727"
+      }
+    },
+    "alpha": {
+      "SourceCode_alpha.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 00:48:48.220504"
+      },
+      "SourceCode_alpha.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 00:48:50.864116"
       }
     }
   }

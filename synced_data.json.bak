@@ -203,6 +203,10 @@
     "237714272": {
       "tag_name": "autobuild",
       "fully_synced_at": "2025-08-21 00:52:06.059719"
+    },
+    "241770751": {
+      "tag_name": "updater",
+      "fully_synced_at": "2025-08-23 00:48:37.933243"
     }
   },
   "assets": {
@@ -12218,6 +12222,16 @@
       "SourceCode_v2.3.2.tar.gz": {
         "exists": true,
         "synced_at": "2025-07-22 03:56:26.986727"
+      }
+    },
+    "alpha": {
+      "SourceCode_alpha.zip": {
+        "exists": true,
+        "synced_at": "2025-08-23 00:48:48.220504"
+      },
+      "SourceCode_alpha.tar.gz": {
+        "exists": true,
+        "synced_at": "2025-08-23 00:48:50.864116"
       }
     }
   }
