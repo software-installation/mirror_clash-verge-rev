@@ -2,167 +2,167 @@
   "releases": {
     "130949269": {
       "tag_name": "v1.4.0",
-      "fully_synced_at": "2025-08-31 00:52:03.771851"
+      "fully_synced_at": "2025-09-01 00:58:17.899706"
     },
     "131654207": {
       "tag_name": "v1.4.1",
-      "fully_synced_at": "2025-08-31 00:52:06.726508"
+      "fully_synced_at": "2025-09-01 00:58:21.225686"
     },
     "132402682": {
       "tag_name": "v1.4.2",
-      "fully_synced_at": "2025-08-31 00:52:09.621526"
+      "fully_synced_at": "2025-09-01 00:58:24.129628"
     },
     "132627049": {
       "tag_name": "v1.4.3",
-      "fully_synced_at": "2025-08-31 00:52:12.077461"
+      "fully_synced_at": "2025-09-01 00:58:27.351694"
     },
     "133320296": {
       "tag_name": "v1.4.4",
-      "fully_synced_at": "2025-08-31 00:52:14.684257"
+      "fully_synced_at": "2025-09-01 00:58:30.684991"
     },
     "133909695": {
       "tag_name": "v1.4.5",
-      "fully_synced_at": "2025-08-31 00:52:17.323730"
+      "fully_synced_at": "2025-09-01 00:58:33.655657"
     },
     "136343158": {
       "tag_name": "v1.4.6",
-      "fully_synced_at": "2025-08-31 00:52:20.193462"
+      "fully_synced_at": "2025-09-01 00:58:36.938577"
     },
     "136604916": {
       "tag_name": "v1.4.7",
-      "fully_synced_at": "2025-08-31 00:52:23.111544"
+      "fully_synced_at": "2025-09-01 00:58:40.176680"
     },
     "137156421": {
       "tag_name": "v1.4.8",
-      "fully_synced_at": "2025-08-31 00:52:26.050410"
+      "fully_synced_at": "2025-09-01 00:58:43.024105"
     },
     "137340152": {
       "tag_name": "v1.4.9",
-      "fully_synced_at": "2025-08-31 00:52:28.843217"
+      "fully_synced_at": "2025-09-01 00:58:46.025499"
     },
     "137574777": {
       "tag_name": "v1.4.10",
-      "fully_synced_at": "2025-08-31 00:52:31.307705"
+      "fully_synced_at": "2025-09-01 00:58:49.627019"
     },
     "139641149": {
       "tag_name": "v1.4.11",
-      "fully_synced_at": "2025-08-31 00:52:33.686541"
+      "fully_synced_at": "2025-09-01 00:58:52.572554"
     },
     "139957908": {
       "tag_name": "v1.5.0",
-      "fully_synced_at": "2025-08-31 00:52:36.172126"
+      "fully_synced_at": "2025-09-01 00:58:55.684348"
     },
     "141532965": {
       "tag_name": "v1.5.1",
-      "fully_synced_at": "2025-08-31 00:52:39.010448"
+      "fully_synced_at": "2025-09-01 00:58:58.732549"
     },
     "142811911": {
       "tag_name": "v1.5.2",
-      "fully_synced_at": "2025-08-31 00:52:41.597031"
+      "fully_synced_at": "2025-09-01 00:59:01.804710"
     },
     "143018676": {
       "tag_name": "v1.5.3",
-      "fully_synced_at": "2025-08-31 00:52:44.133590"
+      "fully_synced_at": "2025-09-01 00:59:04.696180"
     },
     "143468176": {
       "tag_name": "v1.5.4",
-      "fully_synced_at": "2025-08-31 00:52:46.644915"
+      "fully_synced_at": "2025-09-01 00:59:07.798967"
     },
     "145681333": {
       "tag_name": "v1.5.6",
-      "fully_synced_at": "2025-08-31 00:52:48.355473"
+      "fully_synced_at": "2025-09-01 00:59:10.901992"
     },
     "145784505": {
       "tag_name": "v1.5.7",
-      "fully_synced_at": "2025-08-31 00:52:50.104527"
+      "fully_synced_at": "2025-09-01 00:59:12.726505"
     },
     "146212213": {
       "tag_name": "v1.5.8",
-      "fully_synced_at": "2025-08-31 00:52:51.895467"
+      "fully_synced_at": "2025-09-01 00:59:14.579733"
     },
     "146915345": {
       "tag_name": "v1.5.9",
-      "fully_synced_at": "2025-08-31 00:52:53.620852"
+      "fully_synced_at": "2025-09-01 00:59:16.769347"
     },
     "147647065": {
       "tag_name": "v1.5.10",
-      "fully_synced_at": "2025-08-31 00:52:55.340320"
+      "fully_synced_at": "2025-09-01 00:59:18.917429"
     },
     "148792281": {
       "tag_name": "v1.5.11",
-      "fully_synced_at": "2025-08-31 00:52:57.346629"
+      "fully_synced_at": "2025-09-01 00:59:20.807632"
     },
     "152335951": {
       "tag_name": "v1.6.0",
-      "fully_synced_at": "2025-08-31 00:52:59.064006"
+      "fully_synced_at": "2025-09-01 00:59:22.985820"
     },
     "153537281": {
       "tag_name": "v1.6.1",
-      "fully_synced_at": "2025-08-31 00:53:00.913397"
+      "fully_synced_at": "2025-09-01 00:59:25.029786"
     },
     "154261382": {
       "tag_name": "dependencies",
-      "fully_synced_at": "2025-08-31 00:53:03.419988"
+      "fully_synced_at": "2025-09-01 00:59:27.884293"
     },
     "154707819": {
       "tag_name": "v1.6.2",
-      "fully_synced_at": "2025-08-31 00:53:06.277939"
+      "fully_synced_at": "2025-09-01 00:59:31.085068"
     },
     "157521920": {
       "tag_name": "v1.6.4",
-      "fully_synced_at": "2025-08-31 00:53:09.106083"
+      "fully_synced_at": "2025-09-01 00:59:34.377430"
     },
     "158723614": {
       "tag_name": "v1.6.5",
-      "fully_synced_at": "2025-08-31 00:53:12.196369"
+      "fully_synced_at": "2025-09-01 00:59:37.505974"
     },
     "160005285": {
       "tag_name": "v1.6.6",
-      "fully_synced_at": "2025-08-31 00:53:15.008491"
+      "fully_synced_at": "2025-09-01 00:59:40.861793"
     },
     "163617056": {
       "tag_name": "v1.7.0",
-      "fully_synced_at": "2025-08-31 00:53:18.115323"
+      "fully_synced_at": "2025-09-01 00:59:44.298605"
     },
     "163708347": {
       "tag_name": "v1.7.1",
-      "fully_synced_at": "2025-08-31 00:53:20.950113"
+      "fully_synced_at": "2025-09-01 00:59:48.001358"
     },
     "163731100": {
       "tag_name": "v1.7.2",
-      "fully_synced_at": "2025-08-31 00:53:23.935330"
+      "fully_synced_at": "2025-09-01 00:59:51.428415"
     },
     "164252047": {
       "tag_name": "v1.7.3",
-      "fully_synced_at": "2025-08-31 00:53:26.875063"
+      "fully_synced_at": "2025-09-01 00:59:54.591290"
     },
     "165628778": {
       "tag_name": "v1.7.5",
-      "fully_synced_at": "2025-08-31 00:53:29.697886"
+      "fully_synced_at": "2025-09-01 00:59:58.028142"
     },
     "170724106": {
       "tag_name": "v1.7.6",
-      "fully_synced_at": "2025-08-31 00:53:32.561311"
+      "fully_synced_at": "2025-09-01 01:00:01.215725"
     },
     "171346618": {
       "tag_name": "v1.7.7",
-      "fully_synced_at": "2025-08-31 00:53:35.289162"
+      "fully_synced_at": "2025-09-01 01:00:04.746725"
     },
     "187182482": {
       "tag_name": "v2.0.1",
-      "fully_synced_at": "2025-08-31 00:53:38.355686"
+      "fully_synced_at": "2025-09-01 01:00:08.009620"
     },
     "188326178": {
       "tag_name": "v2.0.2",
-      "fully_synced_at": "2025-08-31 00:53:41.196708"
+      "fully_synced_at": "2025-09-01 01:00:11.572566"
     },
     "194989306": {
       "tag_name": "v2.0.3",
-      "fully_synced_at": "2025-08-31 00:53:44.346723"
+      "fully_synced_at": "2025-09-01 01:00:15.003308"
     },
     "203109551": {
       "tag_name": "v2.1.2",
-      "fully_synced_at": "2025-08-31 00:53:46.120898"
+      "fully_synced_at": "2025-09-01 01:00:17.214358"
     },
     "204800577": {
       "tag_name": "updater",
@@ -170,11 +170,11 @@
     },
     "208027108": {
       "tag_name": "v2.2.2",
-      "fully_synced_at": "2025-08-31 00:54:03.283082"
+      "fully_synced_at": "2025-09-01 01:00:24.338578"
     },
     "211191083": {
       "tag_name": "v2.2.3",
-      "fully_synced_at": "2025-08-31 00:54:05.188186"
+      "fully_synced_at": "2025-09-01 01:00:26.430218"
     },
     "225956328": {
       "tag_name": "autobuild",
@@ -182,7 +182,7 @@
     },
     "225448449": {
       "tag_name": "v2.3.0",
-      "fully_synced_at": "2025-08-31 00:54:07.084934"
+      "fully_synced_at": "2025-09-01 01:00:28.416923"
     },
     "226165601": {
       "tag_name": "updater-alpha",
@@ -190,7 +190,7 @@
     },
     "226160772": {
       "tag_name": "v2.3.1",
-      "fully_synced_at": "2025-08-31 00:54:17.337654"
+      "fully_synced_at": "2025-09-01 01:00:33.276989"
     },
     "234079603": {
       "tag_name": "v2.3.2",
@@ -202,19 +202,19 @@
     },
     "237714272": {
       "tag_name": "autobuild",
-      "fully_synced_at": "2025-08-31 00:56:52.918519"
+      "fully_synced_at": "2025-09-01 01:03:46.377048"
     },
     "241770751": {
       "tag_name": "updater",
-      "fully_synced_at": "2025-08-31 00:53:59.061801"
+      "fully_synced_at": "2025-09-01 01:00:20.417600"
     },
     "241537933": {
       "tag_name": "alpha",
-      "fully_synced_at": "2025-08-31 00:54:01.607181"
+      "fully_synced_at": "2025-09-01 01:00:22.289328"
     },
     "241746686": {
       "tag_name": "updater-alpha",
-      "fully_synced_at": "2025-08-31 00:54:14.983065"
+      "fully_synced_at": "2025-09-01 01:00:31.416415"
     },
     "241744900": {
       "tag_name": "v2.4.0",
@@ -10764,8 +10764,8 @@
       "Clash.Verge_aarch64.app.tar.gz.sig_412": {
         "name": "Clash.Verge_aarch64.app.tar.gz.sig",
         "size": 412,
-        "updated_at": "2025-08-31T00:56:31+00:00",
-        "synced_at": "2025-08-31 00:56:31.319737"
+        "updated_at": "2025-09-01T01:03:18+00:00",
+        "synced_at": "2025-09-01 01:03:19.048919"
       },
       "Clash.Verge_x64.app.tar.gz_48199168": {
         "name": "Clash.Verge_x64.app.tar.gz",
@@ -10776,8 +10776,8 @@
       "Clash.Verge_x64.app.tar.gz.sig_412": {
         "name": "Clash.Verge_x64.app.tar.gz.sig",
         "size": 412,
-        "updated_at": "2025-08-31T00:56:46+00:00",
-        "synced_at": "2025-08-31 00:56:46.381581"
+        "updated_at": "2025-09-01T01:03:38+00:00",
+        "synced_at": "2025-09-01 01:03:38.798474"
       },
       "latest.json_825": {
         "name": "latest.json",
@@ -10896,8 +10896,8 @@
       "latest.json_2659": {
         "name": "latest.json",
         "size": 2659,
-        "updated_at": "2025-08-31T00:56:52+00:00",
-        "synced_at": "2025-08-31 00:56:52.901993"
+        "updated_at": "2025-09-01T01:03:46+00:00",
+        "synced_at": "2025-09-01 01:03:46.360219"
       },
       "Clash.Verge-2.4.0+autobuild.0810.5ecfe12-1.aarch64.rpm_48142919": {
         "name": "Clash.Verge-2.4.0+autobuild.0810.5ecfe12-1.aarch64.rpm",
@@ -12272,6 +12272,114 @@
         "size": 48106204,
         "updated_at": "2025-08-31T00:56:39+00:00",
         "synced_at": "2025-08-31 00:56:39.358031"
+      },
+      "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.aarch64.rpm_48186190": {
+        "name": "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.aarch64.rpm",
+        "size": 48186190,
+        "updated_at": "2025-09-01T01:00:54+00:00",
+        "synced_at": "2025-09-01 01:00:54.767334"
+      },
+      "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.armhfp.rpm_49052862": {
+        "name": "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.armhfp.rpm",
+        "size": 49052862,
+        "updated_at": "2025-09-01T01:01:02+00:00",
+        "synced_at": "2025-09-01 01:01:02.347542"
+      },
+      "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.x86_64.rpm_49947649": {
+        "name": "Clash.Verge-2.4.2+autobuild.0831.1b54c9f-1.x86_64.rpm",
+        "size": 49947649,
+        "updated_at": "2025-09-01T01:01:10+00:00",
+        "synced_at": "2025-09-01 01:01:10.540438"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_aarch64.dmg_44424156": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_aarch64.dmg",
+        "size": 44424156,
+        "updated_at": "2025-09-01T01:01:18+00:00",
+        "synced_at": "2025-09-01 01:01:18.671035"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_amd64.deb_49965310": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_amd64.deb",
+        "size": 49965310,
+        "updated_at": "2025-09-01T01:01:26+00:00",
+        "synced_at": "2025-09-01 01:01:26.677292"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64-setup.exe_31343421": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64-setup.exe",
+        "size": 31343421,
+        "updated_at": "2025-09-01T01:01:34+00:00",
+        "synced_at": "2025-09-01 01:01:34.465527"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64-setup.exe.sig_456": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64-setup.exe.sig",
+        "size": 456,
+        "updated_at": "2025-09-01T01:01:40+00:00",
+        "synced_at": "2025-09-01 01:01:41.120326"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64.deb_48195958": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64.deb",
+        "size": 48195958,
+        "updated_at": "2025-09-01T01:01:49+00:00",
+        "synced_at": "2025-09-01 01:01:49.780462"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64_fixed_webview2-setup.exe_170834786": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64_fixed_webview2-setup.exe",
+        "size": 170834786,
+        "updated_at": "2025-09-01T01:02:02+00:00",
+        "synced_at": "2025-09-01 01:02:03.081168"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64_fixed_webview2-setup.exe.sig_456": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_arm64_fixed_webview2-setup.exe.sig",
+        "size": 456,
+        "updated_at": "2025-09-01T01:02:09+00:00",
+        "synced_at": "2025-09-01 01:02:09.282254"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_armhf.deb_49059400": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_armhf.deb",
+        "size": 49059400,
+        "updated_at": "2025-09-01T01:02:18+00:00",
+        "synced_at": "2025-09-01 01:02:18.287002"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64-setup.exe_34652992": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64-setup.exe",
+        "size": 34652992,
+        "updated_at": "2025-09-01T01:02:25+00:00",
+        "synced_at": "2025-09-01 01:02:25.930017"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64-setup.exe.sig_452": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64-setup.exe.sig",
+        "size": 452,
+        "updated_at": "2025-09-01T01:02:32+00:00",
+        "synced_at": "2025-09-01 01:02:32.228582"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64.dmg_47293503": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64.dmg",
+        "size": 47293503,
+        "updated_at": "2025-09-01T01:02:41+00:00",
+        "synced_at": "2025-09-01 01:02:41.465119"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64_fixed_webview2-setup.exe_187326389": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64_fixed_webview2-setup.exe",
+        "size": 187326389,
+        "updated_at": "2025-09-01T01:02:54+00:00",
+        "synced_at": "2025-09-01 01:02:54.611269"
+      },
+      "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64_fixed_webview2-setup.exe.sig_452": {
+        "name": "Clash.Verge_2.4.2+autobuild.0831.1b54c9f_x64_fixed_webview2-setup.exe.sig",
+        "size": 452,
+        "updated_at": "2025-09-01T01:03:00+00:00",
+        "synced_at": "2025-09-01 01:03:00.995458"
+      },
+      "Clash.Verge_aarch64.app.tar.gz_45339788": {
+        "name": "Clash.Verge_aarch64.app.tar.gz",
+        "size": 45339788,
+        "updated_at": "2025-09-01T01:03:11+00:00",
+        "synced_at": "2025-09-01 01:03:11.272570"
+      },
+      "Clash.Verge_x64.app.tar.gz_48111503": {
+        "name": "Clash.Verge_x64.app.tar.gz",
+        "size": 48111503,
+        "updated_at": "2025-09-01T01:03:29+00:00",
+        "synced_at": "2025-09-01 01:03:29.369559"
       }
     },
     "241770751": {
